@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpellbookAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: eded42feae8ca1142bd871aa72165b5c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7b5c30103b209834886dc85158c8f1f2, type: 3}
+  - {fileID: 21300000, guid: 33aa7e20d11a1844a9d9cce12dee462e, type: 3}
+  - {fileID: 21300000, guid: bf4ce75079db7c24c9d669cef421ec54, type: 3}
+  - {fileID: 21300000, guid: ad02676077d939143918e55131c2a1e3, type: 3}
+  - {fileID: 21300000, guid: 7841c1d0c19dd4f43b1e2c2b3d28f7c5, type: 3}
+  - {fileID: 21300000, guid: c86fb5f0cebc99840aa4d755fdf0d5cd, type: 3}
+  - {fileID: 21300000, guid: c13bfc01f828dfc42a564ca4d6e1488a, type: 3}
+  - {fileID: 21300000, guid: 6c5b0f112187dd945aa8a3f9484de85d, type: 3}
+  - {fileID: 21300000, guid: 37372971351566d459cfdd5d3b3f861c, type: 3}
+  - {fileID: 21300000, guid: 656f7981daf93684fa5e4b96c3822235, type: 3}
+  - {fileID: 21300000, guid: 145b33a16a7a5b441ad8147ffa33afe2, type: 3}
+  - {fileID: 21300000, guid: 0889a8d1b0a245a44936750d2b42dfc0, type: 3}
+  - {fileID: 21300000, guid: aa7d11e1356624e4bb5719bad7aa3331, type: 3}
+  - {fileID: 21300000, guid: e70353027073d334fb5799cbd6904134, type: 3}
+  - {fileID: 21300000, guid: 7fb9a032c81d5a8458202c9afeaff401, type: 3}
+  - {fileID: 21300000, guid: 6d6c16727f3301a45b1f2e1693ee7f1e, type: 3}
+  - {fileID: 21300000, guid: 0f45a582a0f2e7647a4bc6d072d98535, type: 3}
+  - {fileID: 21300000, guid: 10444a82ebc4d4941aba9ea59ef187d2, type: 3}
+  - {fileID: 21300000, guid: 3e9732a2094ca544a99f3191ebec4551, type: 3}
+  - {fileID: 21300000, guid: 70a362b270510fc409aa947f8b91f47e, type: 3}
+  - {fileID: 21300000, guid: c90de5b27e68a7a45a234694ceb51209, type: 3}
+  - {fileID: 21300000, guid: 97a950c26e3c5de4098b7f08abfac14c, type: 3}
+  - {fileID: 21300000, guid: 8fafe7d23ed216244b6728369b338fda, type: 3}
+  - {fileID: 21300000, guid: aa6d64e266597cb4a8a872640dbdaba3, type: 3}
+  - {fileID: 21300000, guid: 29293b6397ebcf648949520fa89155ed, type: 3}
+  - {fileID: 21300000, guid: ea16cb93db73a194f95eddf7f9c4295f, type: 3}
+  - {fileID: 21300000, guid: 00be47a373c5b4c4880d7463d5e1a22a, type: 3}
+  - {fileID: 21300000, guid: e87170c3ed0519144a2e0176f8331f76, type: 3}
+  - {fileID: 21300000, guid: 0d60a0d336588b840a53422e97bc823d, type: 3}
+  - {fileID: 21300000, guid: 8dedb754fd0f73641ac244b1335f8df0, type: 3}
+  - {fileID: 21300000, guid: 6c3d2764bfe1c4a4fa601d20bd668971, type: 3}
+  - {fileID: 21300000, guid: d0f486a4ecf7f954c85ae9f88ed2e78e, type: 3}
+  - {fileID: 21300000, guid: 7652b4b47ee71b54eb8bbafdace98d30, type: 3}
+  - {fileID: 21300000, guid: 6c2ac8f4787d2d4459e9fe13dc5b2747, type: 3}
+  - {fileID: 21300000, guid: 9d56992518137e24ea9d6d565cb19d82, type: 3}
+  - {fileID: 21300000, guid: 9031c4554f4b6a24f88798c42f3791b1, type: 3}
+  - {fileID: 21300000, guid: f3c2c765f6e42f140a915172b31ba3a4, type: 3}
+  - {fileID: 21300000, guid: 23349cb543d452d4ea3239b57ecd2665, type: 3}
+  - {fileID: 21300000, guid: 623663d5cca5fb4429ca235beab72067, type: 3}
+  - {fileID: 21300000, guid: 9820dc06582d6404eb959e2c2ebb3986, type: 3}
+  - {fileID: 21300000, guid: acc3cb166ecd79049be1ed19f139c7bd, type: 3}
+  - {fileID: 21300000, guid: 5fa16726c32b6a34bbcc1e2f48430605, type: 3}
+  - {fileID: 21300000, guid: c1b4ff36b3be3354fa9c19e12245b04c, type: 3}
+  - {fileID: 21300000, guid: 3442cb46d760b5e4aa2e9a1a5532018c, type: 3}
+  - {fileID: 21300000, guid: d7a9da6603e5e7e4ab6febef1d7164f3, type: 3}
+  - {fileID: 21300000, guid: b46ec37620ef4604f8b2b5452dd19cf1, type: 3}
+  - {fileID: 21300000, guid: 614f16766329a8341b1b898c77240301, type: 3}
+  - {fileID: 21300000, guid: d99bac861f66840488f7d2e54975e31f, type: 3}
+  - {fileID: 21300000, guid: 055dfc86618f2174db77a9c75631075c, type: 3}
+  - {fileID: 21300000, guid: 208a56a6b96f5c24494d79c4dd840d06, type: 3}
+  - {fileID: 21300000, guid: a706a3b64a70b564881c798770fdc69f, type: 3}
+  - {fileID: 21300000, guid: 4d143117fea251a43a2082201b2577b0, type: 3}
+  - {fileID: 21300000, guid: c7bb8e27eacd50c4e9e613c71888449b, type: 3}
+  - {fileID: 21300000, guid: ad8aff977b805524faac97b070831934, type: 3}
+  - {fileID: 21300000, guid: 5b3a02d7c3c33fd4ea3125edf1c910f3, type: 3}
+  - {fileID: 21300000, guid: 3c0191e7162a199499af0931c767cdf1, type: 3}
+  - {fileID: 21300000, guid: a4d23f08814a3634699a1e5bd5088525, type: 3}
+  - {fileID: 21300000, guid: 9b1485481ce270d46a9e505ce4ee740a, type: 3}
+  - {fileID: 21300000, guid: dec308586ae82d548ac213ac3025ed61, type: 3}
+  - {fileID: 21300000, guid: 9fd1de68c48337e43bb7da3ac058c6ee, type: 3}
+  - {fileID: 21300000, guid: 68efdc88a425bc546bc19856429df803, type: 3}
+  - {fileID: 21300000, guid: 701756985a2828746b2e8e7d895fe2cc, type: 3}
+  - {fileID: 21300000, guid: 6ab661f855b17d6498cf86442f7ec212, type: 3}
+  - {fileID: 21300000, guid: bd492af8556dd7b408129f68edc1b5b0, type: 3}
+  - {fileID: 21300000, guid: db0cb209a47e23d4eb0e986b9c15fc9e, type: 3}
+  - {fileID: 21300000, guid: 3d7f8829c1eda9c4086d0f8368049692, type: 3}
+  - {fileID: 21300000, guid: 69399e393fd667b4e8b25e3ca4517253, type: 3}
+  - {fileID: 21300000, guid: dc55fc69989fb9a4a9f58f2d3d3e5bcd, type: 3}
+  - {fileID: 21300000, guid: ec0a41a94892be6449facbe74bde6834, type: 3}
+  - {fileID: 21300000, guid: b53c8ee97fd3c254a808cfae6c5ff71c, type: 3}
+  - {fileID: 21300000, guid: 546cb60a7f3b1b74cb024985b9c33865, type: 3}
+  - {fileID: 21300000, guid: 74035c2ab10f5124e82bcc499ddca7f0, type: 3}
+  - {fileID: 21300000, guid: 0e03726a64630d847a75378971a51e16, type: 3}
+  - {fileID: 21300000, guid: 53c15fba387320749accfba8d8835888, type: 3}
+  - {fileID: 21300000, guid: dc63b4da7f2f52a42ae28ad5c9734860, type: 3}
+  - {fileID: 21300000, guid: 6821e8ea5330a8f438b4b29d99e8473c, type: 3}
+  - {fileID: 21300000, guid: d222eeeade1849d4292cf33045b983c4, type: 3}
+  - {fileID: 21300000, guid: 9d8187fa6793dc44d8110bceb2140601, type: 3}
+  - {fileID: 21300000, guid: 0f07693b6d2881240b6131f6eb7c7d91, type: 3}
+  - {fileID: 21300000, guid: 07b95a5b77798c84ca109786f9ff2b2c, type: 3}
+  - {fileID: 21300000, guid: 9194fc9bc6b9f294688f611e19d5f27a, type: 3}
+  - {fileID: 21300000, guid: 46d49dab210cbf740aa8cc425df836d6, type: 3}
+  - {fileID: 21300000, guid: ebfe2aeb33b69434986aeaf229f448e8, type: 3}
+  - {fileID: 21300000, guid: 2c644b1c0b302b543b1e5e2bf06d022c, type: 3}
+  - {fileID: 21300000, guid: 4a80366c7cdc5094694e62559255135c, type: 3}
+  - {fileID: 21300000, guid: b570666ca82e369449034fc54390f159, type: 3}
+  - {fileID: 21300000, guid: 2a2055bcce072474bbfbf2e78967c9ed, type: 3}
+  - {fileID: 21300000, guid: e3774acc851710748a77283c659c6c17, type: 3}
+  - {fileID: 21300000, guid: 62cff50d8908a254d89d323899209cd8, type: 3}
+  - {fileID: 21300000, guid: c7e89d4d95ad4ed47a2db49155538dd6, type: 3}
+  - {fileID: 21300000, guid: f5eb006db8ce23d46bf0c8a74ec3097f, type: 3}
+  - {fileID: 21300000, guid: 78085c7dc93d8b847a1779a37f6e41d8, type: 3}
+  - {fileID: 21300000, guid: 5ac2fafd5af5bc442a737249bac92926, type: 3}
+  - {fileID: 21300000, guid: 8109bf6e16d31c24fa7824ddb927f29d, type: 3}
+  - {fileID: 21300000, guid: 2513039e8e1dd08438b6a245999449f2, type: 3}
+  - {fileID: 21300000, guid: 22cdc3be1b7bc0d4b85511fb6bcba6e1, type: 3}
+  - {fileID: 21300000, guid: a4b1bcbef9d70da47a33c25ae612fb9e, type: 3}
+  - {fileID: 21300000, guid: 633d92ce30d93914fa903082d29ea9d6, type: 3}
+  - {fileID: 21300000, guid: e61f1dce1ff88c44698e5dfe070b53fc, type: 3}
+  - {fileID: 21300000, guid: 36b5cfee8acc9534796da680661cc6ef, type: 3}
+  - {fileID: 21300000, guid: f585bd0fffc1c104a97fb12a8db90b1e, type: 3}
+  - {fileID: 21300000, guid: 206cfd6f961389042b5bbdc1ead6fc3e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpellBook01_67
+  - SpellBook01_27
+  - SpellBook01_19
+  - SpellBook01_100
+  - SpellBook01_93
+  - SpellBook01_14
+  - SpellBook01_50
+  - SpellBook01_75
+  - SpellBook01_71
+  - SpellBook01_07
+  - SpellBook01_38
+  - SpellBook01_64
+  - SpellBook01_68
+  - SpellBook01_48
+  - SpellBook01_35
+  - SpellBook01_84
+  - SpellBook01_04
+  - SpellBook01_47
+  - SpellBook01_55
+  - SpellBook01_96
+  - SpellBook01_42
+  - SpellBook01_13
+  - SpellBook01_61
+  - SpellBook01_99
+  - SpellBook01_10
+  - SpellBook01_73
+  - SpellBook01_41
+  - SpellBook01_63
+  - SpellBook01_49
+  - SpellBook01_54
+  - SpellBook01_26
+  - SpellBook01_87
+  - SpellBook01_70
+  - SpellBook01_40
+  - SpellBook01_09
+  - SpellBook01_60
+  - SpellBook01_15
+  - SpellBook01_30
+  - SpellBook01_18
+  - SpellBook01_44
+  - SpellBook01_53
+  - SpellBook01_97
+  - SpellBook01_65
+  - SpellBook01_17
+  - SpellBook01_90
+  - SpellBook01_11
+  - SpellBook01_21
+  - SpellBook01_57
+  - SpellBook01_72
+  - SpellBook01_33
+  - SpellBook01_20
+  - SpellBook01_28
+  - SpellBook01_34
+  - SpellBook01_29
+  - SpellBook01_95
+  - SpellBook01_01
+  - SpellBook01_08
+  - SpellBook01_59
+  - SpellBook01_02
+  - SpellBook01_79
+  - SpellBook01_62
+  - SpellBook01_88
+  - SpellBook01_102
+  - SpellBook01_80
+  - SpellBook01_66
+  - SpellBook01_94
+  - SpellBook01_22
+  - SpellBook01_36
+  - SpellBook01_92
+  - SpellBook01_56
+  - SpellBook01_77
+  - SpellBook01_46
+  - SpellBook01_58
+  - SpellBook01_24
+  - SpellBook01_83
+  - SpellBook01_16
+  - SpellBook01_32
+  - SpellBook01_05
+  - SpellBook01_78
+  - SpellBook01_06
+  - SpellBook01_101
+  - SpellBook01_82
+  - SpellBook01_74
+  - SpellBook01_12
+  - SpellBook01_45
+  - SpellBook01_69
+  - SpellBook01_85
+  - SpellBook01_81
+  - SpellBook01_39
+  - SpellBook01_52
+  - SpellBook01_91
+  - SpellBook01_23
+  - SpellBook01_98
+  - SpellBook01_76
+  - SpellBook01_86
+  - SpellBook01_89
+  - SpellBook01_31
+  - SpellBook01_25
+  - SpellBook01_03
+  - SpellBook01_51
+  - SpellBook01_43
+  - SpellBook01_37
+  m_RenderDataMap: {}
+  m_Tag: SpellbookAtlas
+  m_IsVariant: 0
